@@ -80,3 +80,6 @@ sudo reboot now
 ```
 - Once it is rebooted, you will see the Graphical User Interface and login with your password.
 - Your installation is complete
+
+> [!NOTE]  
+> To install Kubernetes on Ubuntu 22.04 LTS, refer the repository: https://github.com/vikramhemchandar/Kubernetes-and-Docker-Installation
