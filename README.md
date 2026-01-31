@@ -13,7 +13,7 @@ https://mac.getutm.app/
 #### Step 2:
 Download the ISO of Ubuntu Server 22.04 LTS (long-term support) ARM64 
 ```
-https://releases.ubuntu.com/22.04.5/ubuntu-22.04.5-live-server-amd64.iso?_gl=1*19i5zld*_gcl_au*NTUyOTEyMjE2LjE3Njg3MjE0MTI.
+https://cdimage.ubuntu.com/releases/22.04/release/ubuntu-22.04.5-live-server-arm64.iso
 ```
 **Note:** Apple uses ARM architecture and hence, you will need to download ARM64 Ubuntu server. Also note, ARM64 doesn’t desktop version. So, you will first have to download the server and once it is installed, you will have install Ubuntu Desktop from the terminal (which you will see the below steps)
 
